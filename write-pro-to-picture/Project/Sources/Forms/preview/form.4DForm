@@ -1,0 +1,59 @@
+﻿{
+	"destination": "detailScreen",
+	"rightMargin": 10,
+	"bottomMargin": 10,
+	"markerHeader": 15,
+	"markerBody": 200,
+	"markerBreak": 220,
+	"markerFooter": 240,
+	"events": [
+		"onLoad",
+		"onUnload"
+	],
+	"pageFormat": {
+		"paperName": "A4",
+		"paperWidth": "842pt",
+		"paperHeight": "595pt"
+	},
+	"pages": [
+		null,
+		{
+			"objects": {
+				"wpDoc": {
+					"type": "write",
+					"top": 0,
+					"left": 0,
+					"width": 670,
+					"height": 670,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"dataSource": "",
+					"hideFocusRing": true,
+					"dragging": "none",
+					"dropping": "none",
+					"scrollbarVertical": "hidden",
+					"scrollbarHorizontal": "hidden",
+					"dpi": 0,
+					"borderStyle": "none",
+					"events": [
+						"onLoad"
+					],
+					"enterable": false,
+					"showSelection": false,
+					"showHorizontalRuler": false,
+					"showVerticalRuler": false
+				}
+			}
+		}
+	],
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"method": "method.4dm",
+	"windowSizingX": "fixed",
+	"windowSizingY": "fixed",
+	"memorizeGeometry": false,
+	"menuBar": "Barre #1",
+	"geometryStamp": 13
+}
